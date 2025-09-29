@@ -61,7 +61,7 @@
 
 #### **Sambanova**
 
-- **模型：** 国内外开源模型。
+- **模型**： 国内外开源模型。
 - **免费额度：** 注册送 5 刀。
 - **链接：** `https://cloud.sambanova.ai/dashboard`
 
