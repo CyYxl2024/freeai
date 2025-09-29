@@ -1,9 +1,8 @@
 # 长期收录靠谱稳定长期免费AI （API）Claudecode等 实现 AI 自由
 
-> 为了避免后期超过时间无法编辑，建议通过 https://github.com/CyYxl2024/freeai  查看
+> 为了避免后期超过时间无法编辑，建议通过 https://github.com/CyYxl2024/freeai 查看
 
-> 不定时更新。有 `ref`、`invite` 等关键词就是有 AFF，没有的就没有。注册需要哪些信息会标注
-
+> 本贴会不定时更新。有 `ref`、`invite` 等关键词就是有 AFF，没有的就没有。注册需要哪些信息会标注
 
 ---
 
@@ -20,11 +19,11 @@
 
 ## **站点列表**
 
-#### **x-aio**
+#### **X-aio**
 
 - **模型：** 国产开源模型，如 Qwen、GLM、Kimi 等。
 - **免费额度：** 注册送 20 元余额，通过 AFF 链接注册额外得 10 元。
-- **注册要求：** 需要+86手机号。
+- **注册要求：** 需要手机号。
 - **链接：** `https://dashboard.x-aio.com/zh/register?ref=7442bebbe10548dfb729`
 
 #### **魔搭 (ModelScope)**
@@ -60,7 +59,7 @@
 
 #### **Sambanova**
 
-- **模型**： 国内外开源模型。
+- **模型：** 国内外开源模型。
 - **免费额度：** 注册送 5 刀。
 - **链接：** `https://cloud.sambanova.ai/dashboard`
 
@@ -69,6 +68,13 @@
 - **模型：** 开源模型，有免费小模型。
 - **免费额度：** 注册送 0.5 刀。付费的肯定不用看了，免费小模型不错。
 - **链接：** `https://novita.ai/?ref=nzkxntu&utm_source=affiliate`
+
+#### 硅基流动siliconflow
+
+- **模型：**Claude系列
+- **说明**：注册需要手机号，但是可以非+86
+- **免费额度：**  注册送14元
+- **链接：** `https://cloud.siliconflow.cn/i/0PQYt6ok`
 
 #### **Nebius**
 
@@ -93,8 +99,9 @@
 
 - **特点：** 余额可以用于 AI，还可以部署容器。
 - **免费额度：** 注册送 10 元余额。
-- 国内站： 需要实名认证+手机号。 https://cloud.sealos.run/?uid=q05U7kB6wE
-- 国际站：
+- **国内站**： 需要实名认证+手机号。 https://cloud.sealos.run/?uid=q05U7kB6wE
+
+- **国际站**：
   - `https://cloud.sealos.io/?uid=qA_yHE4VqP`
 
 #### **TurboTable**
@@ -136,3 +143,15 @@
 - **免费额度：**  每天有免费额度，但是上下文很短
 - **链接：** `https://github.com/features/models`
 
+#### Anyrouter
+
+- **模型：**Claude系列
+- **说明**：神秘大佬的站点？
+- **免费额度：**  注册送50刀，每天登录送25刀
+- **链接：** `https://anyrouter.top/register?aff=ljhH`
+
+#### 英伟达Build
+
+- **模型：**国内外开源模型
+- **免费额度：**  限制80rpm ，tpm稍慢
+- **链接：** `https://build.nvidia.com/`
