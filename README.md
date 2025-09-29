@@ -71,7 +71,7 @@
 
 #### 硅基流动siliconflow
 
-- **模型：**Claude系列
+- **模型：** 国内开源模型
 - **说明**：注册需要手机号，但是可以非+86
 - **免费额度：**  注册送14元
 - **链接：** `https://cloud.siliconflow.cn/i/0PQYt6ok`
