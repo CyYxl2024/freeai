@@ -19,6 +19,13 @@
 
 ## **站点列表**
 
+#### 88CODE
+
+* **模型：Claude，GPT全系列**
+* **免费额度**：免费15刀：注册送2.5刀，加客服微信送10刀 `https://www.88code.org/contact-service`
+* **注册要求**：邮箱注册
+* **链接**：`https://www.88code.org/register?ref=NZCSMU` 注：通过AFF注册才有送2.5刀
+
 #### **X-aio**
 
 - **模型：** 国产开源模型，如 Qwen、GLM、Kimi 等。
