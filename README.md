@@ -158,8 +158,4 @@
 - **免费额度：**  限制80rpm ，tpm稍慢
 - **链接：** `https://build.nvidia.com/`
 
-#### 英伟达Build
 
-- **模型：**国内外开源模型
-- **免费额度：**  限制80rpm ，tpm稍慢
-- **链接：** `https://build.nvidia.com/`
