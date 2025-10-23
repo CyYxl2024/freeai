@@ -17,6 +17,13 @@
 
 ---
 
+### 小马算力
+
+* 注册送五十（通过AFF注册才送），只需要手机号，到csdn发广告，一千浏览量给200
+* 模型：国产开源模型 目前速度挺快
+* 链接 ： [https://www.tokenpony.cn/1qUBast0](https://www.tokenpony.cn/1qUBast0)   活动今年年底结束 具体活动链接 https://www.tokenpony.cn/#/1024
+
+
 ## **站点列表**
 #### Code-mirros
 
