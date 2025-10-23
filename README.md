@@ -18,6 +18,11 @@
 ---
 
 ## **站点列表**
+#### Code-mirros
+
+* 注册送200刀，灵车，临时更新，速上车，关门后删除
+* 模型：Claudecode
+* 链接：https://api.codemirror.codes/register?aff=4UJf 通过AFF注册似乎额外得50刀
 
 #### 88CODE
 
@@ -51,11 +56,7 @@
 
   **链接：** `https://aistudio.google.com/prompts/new_chat`
 
-#### Shareyour.cc
 
-- **模型：** Claude系列
-- 免费额度：注册送3刀，每天签到可抽奖1次，抽奖可得至少一刀
-- **链接：** `https://shareyour.cc/` 注册必须用邀请码，可以自己找，也可以用我的 SC7SO3G5 注册需要谷歌，Github，或LinuxDO
 
 #### **Cerebras**
 
@@ -117,16 +118,9 @@
 - **免费额度：** 注册送 1M Token。
 - **链接：** `https://turbotable.ai/`
 
-#### **DuckAPI (中转站)**
-
-- **模型：** 主要是 Claude Code 和 Claude。
-- **免费额度：** 注册送 1 刀。
-- **注册要求：** GitHub 注册登录。
-- **链接：** `https://instcopilot-api.com/register?aff=4edA`
-
 #### Akash
 
-- **模型：**国内外开源模型
+- **模型：**  国内外开源模型
 - **免费额度：** 每天有免费额度，很多，具体没查文档，我一天请求一百多次都没事
 - **链接：** `https://chatapi.akash.network`
 
@@ -146,16 +140,16 @@
 
 #### **GitHub Models**
 
-- **模型：** 模型很全，开源，御三家都有
+- **模型：**  模型很全，开源，御三家都有
 - **免费额度：**  每天有免费额度，但是上下文很短
 - **链接：** `https://github.com/features/models`
 
-#### Anyrouter
 
-- **模型：**Claude系列
-- **说明**：神秘大佬的站点？
-- **免费额度：**  注册送50刀，每天登录送25刀
-- **链接：** `https://anyrouter.top/register?aff=ljhH`
+#### 英伟达Build
+
+- **模型** : 国内外开源模型
+- **免费额度：**  限制80rpm ，tpm稍慢
+- **链接：** `https://build.nvidia.com/`
 
 #### 英伟达Build
 
