@@ -31,6 +31,12 @@
 * 模型：国产开源模型
 * 链接：https://www.blsc.cn/
 
+#### chatanywhere.tech项目
+
+* “免费版支持gpt-5.2, gpt-5.1, gpt-5, gpt-4o，gpt-4.1一天5次；支持deepseek-r1, deepseek-v3, deepseek-v3-2-exp一天30次，支持gpt-4o-mini，gpt-3.5-turbo，gpt-4.1-mini，gpt-4.1-nano, gpt-5-mini，gpt-5-nano一天200次。” GitHub登录即可
+* 模型：如上
+* 链接：https://api.chatanywhere.tech/v1/oauth/free/render  API地址https://api.chatanywhere.tech  openai格式
+
 #### Code-mirros
 
 * 注册送200刀，灵车，临时更新，速上车，关门后删除
