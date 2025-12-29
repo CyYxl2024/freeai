@@ -19,6 +19,12 @@
 
 ## **站点列表**
 
+#### pollinations.ai项目
+
+* 每天送1pollinations ，大概能用十几次Gemini3的量，GitHub登录即可
+* 模型：御三家
+* 链接：https://enter.pollinations.ai/
+
 #### 北京超算云
 
 * 注册送50元，需要+86手机号
